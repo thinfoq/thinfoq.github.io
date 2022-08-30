@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - Thinfoq</title>
+        <link>https://thinfoq.github.io/posts/</link>
+        <description>所有文章 | Thinfoq</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 30 Aug 2022 12:40:00 &#43;0800</lastBuildDate><atom:link href="https://thinfoq.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>1.zh</title>
+    <link>https://thinfoq.github.io/demo/</link>
+    <pubDate>Tue, 30 Aug 2022 12:40:00 &#43;0800</pubDate>
+    <author>前进</author>
+    <guid>https://thinfoq.github.io/demo/</guid>
+    <description><![CDATA[<p>这是一个测试简洁的 Demo！</p>]]></description>
+</item>
+</channel>
+</rss>
