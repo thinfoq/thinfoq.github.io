@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>测试分类 - 分类 - Thinfoq</title>
+        <link>https://thinfoq.github.io/categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/</link>
+        <description>测试分类 - 分类 - Thinfoq</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 30 Aug 2022 12:40:00 &#43;0800</lastBuildDate><atom:link href="https://thinfoq.github.io/categories/%E6%B5%8B%E8%AF%95%E5%88%86%E7%B1%BB/" rel="self" type="application/rss+xml" /><item>
+    <title>测试文章</title>
+    <link>https://thinfoq.github.io/demo/</link>
+    <pubDate>Tue, 30 Aug 2022 12:40:00 &#43;0800</pubDate>
+    <author>前进</author>
+    <guid>https://thinfoq.github.io/demo/</guid>
+    <description><![CDATA[<p>这是一个测试简洁的 Demo！</p>]]></description>
+</item>
+</channel>
+</rss>
