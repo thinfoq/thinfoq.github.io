@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - Thinfoq</title>
-        <link>https://thinfoq.github.io/posts/</link>
-        <description>所有文章 | Thinfoq</description>
+        <title>Python - 标签 - Thinfoq</title>
+        <link>https://thinfoq.github.io/tags/python/</link>
+        <description>Python - 标签 - Thinfoq</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>junq18n@foxmail.com (Thinfoq)</managingEditor>
-            <webMaster>junq18n@foxmail.com (Thinfoq)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 10 Jan 2025 14:25:00 &#43;0800</lastBuildDate><atom:link href="https://thinfoq.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>junq18n@foxmail.com (Thinfoq)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 10 Jan 2025 14:25:00 &#43;0800</lastBuildDate><atom:link href="https://thinfoq.github.io/tags/python/" rel="self" type="application/rss+xml" /><item>
     <title>第一篇文章</title>
     <link>https://thinfoq.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
     <pubDate>Fri, 10 Jan 2025 14:25:00 &#43;0800</pubDate>

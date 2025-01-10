@@ -2,7 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://thinfoq.github.io/categories/</loc><lastmod>2022-08-30T12:40:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://thinfoq.github.io/categories/</loc><lastmod>2025-01-10T14:25:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://thinfoq.github.io/en/categories/"
@@ -11,11 +11,10 @@
                     hreflang="zh-cn"
                     href="https://thinfoq.github.io/categories/"
                     /></url><url>
-            <loc>https://thinfoq.github.io/tags/gin/</loc><lastmod>2022-08-30T12:40:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thinfoq.github.io/categories/gin/</loc><lastmod>2022-08-30T12:40:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thinfoq.github.io/gin-%E7%AE%80%E4%BB%8B/</loc><lastmod>2022-08-30T12:40:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thinfoq.github.io/posts/</loc><lastmod>2022-08-30T12:40:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
-            <loc>https://thinfoq.github.io/tags/</loc><lastmod>2022-08-30T12:40:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://thinfoq.github.io/posts/</loc><lastmod>2025-01-10T14:25:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thinfoq.github.io/tags/python/</loc><lastmod>2025-01-10T14:25:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thinfoq.github.io/categories/python/</loc><lastmod>2025-01-10T14:25:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://thinfoq.github.io/tags/</loc><lastmod>2025-01-10T14:25:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://thinfoq.github.io/en/tags/"
@@ -24,7 +23,7 @@
                     hreflang="zh-cn"
                     href="https://thinfoq.github.io/tags/"
                     /></url><url>
-            <loc>https://thinfoq.github.io/</loc><lastmod>2022-08-30T12:40:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+            <loc>https://thinfoq.github.io/</loc><lastmod>2025-01-10T14:25:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://thinfoq.github.io/en/"
@@ -33,6 +32,7 @@
                     hreflang="zh-cn"
                     href="https://thinfoq.github.io/"
                     /></url><url>
+            <loc>https://thinfoq.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc><lastmod>2025-01-10T14:25:00&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://thinfoq.github.io/about/</loc><lastmod>2022-08-30T11:04:49&#43;08:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"

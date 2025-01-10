@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Thinfoq</title>
+        <link>https://thinfoq.github.io/en/categories/</link>
+        <description>Categories - Category - Thinfoq</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>junq18n@foxmail.com (Thinfoq)</managingEditor>
+            <webMaster>junq18n@foxmail.com (Thinfoq)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://thinfoq.github.io/en/categories/" rel="self" type="application/rss+xml" /></channel>
+</rss>

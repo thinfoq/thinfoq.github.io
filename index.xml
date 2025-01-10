@@ -2,17 +2,18 @@
     <channel>
         <title>Thinfoq</title>
         <link>https://thinfoq.github.io/</link>
-        <description>Thinfoq Go Golang Hugo - LoveIt</description>
+        <description>Thinfoq 博客 Hugo LoveIt Java Python </description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>junq18n@foxmail.com (Thinfoq)</managingEditor>
-            <webMaster>junq18n@foxmail.com (Thinfoq)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 30 Aug 2022 12:40:00 &#43;0800</lastBuildDate>
+            <webMaster>junq18n@foxmail.com (Thinfoq)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 10 Jan 2025 14:25:00 &#43;0800</lastBuildDate>
             <atom:link href="https://thinfoq.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Gin 框架简介</title>
-    <link>https://thinfoq.github.io/gin-%E7%AE%80%E4%BB%8B/</link>
-    <pubDate>Tue, 30 Aug 2022 12:40:00 &#43;0800</pubDate>
+    <title>第一篇文章</title>
+    <link>https://thinfoq.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+    <pubDate>Fri, 10 Jan 2025 14:25:00 &#43;0800</pubDate>
     <author>Thinfoq</author>
-    <guid>https://thinfoq.github.io/gin-%E7%AE%80%E4%BB%8B/</guid>
-    <description><![CDATA[<p>Gin 框架简介</p>]]></description>
+    <guid>https://thinfoq.github.io/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+    <description><![CDATA[<p>2025年关于Python的第一篇文章。
+现在的这个是个空壳，模板占位所用，以后再写吧。</p>]]></description>
 </item>
 </channel>
 </rss>
